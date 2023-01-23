@@ -54,58 +54,30 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="/myself"
+            href="https://teamjean21.fr"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Xavier <span>-&gt;</span>
+              Mon CV <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Des infos sur moi, ma personnalité et mes hobbies.
+              Des infos sur moi, mes expériences et mes hobbies.
             </p>
           </a>
 
           <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Projets <span>-&gt;</span>
+              Projets (Soon)<span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Retrouvez mon porte-folio contenant mes différents projets.
-            </p>
-          </a>
-
-          <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className={inter.className}>
-              Parcours <span>-&gt;</span>
-            </h2>
-            <p className={inter.className}>
-              Mes formations et mes expériences professionnelles.
-            </p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className={inter.className}>
-              Skills <span>-&gt;</span>
-            </h2>
-            <p className={inter.className}>
-              Une étendue de mes compétences et mon savoir-faire.
             </p>
           </a>
         </div>
