@@ -54,7 +54,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://teamjean21.fr"
+            href="https://cv.xavierlabarbe.fr"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
